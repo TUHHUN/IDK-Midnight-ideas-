@@ -47,4 +47,4 @@ Contributions are welcome! Please feel free to submit a pull request or open an 
 
 *Disclaimer: This tool is intended for educational and ethical purposes only. The author is not responsible for any misuse of this tool.*
 
-## *last and every thing it still need work ,but good loke beginning*
+## *The last thing and everything still need work, but it's a good start.*
