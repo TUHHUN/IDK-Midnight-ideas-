@@ -48,3 +48,4 @@ Contributions are welcome! Please feel free to submit a pull request or open an 
 *Disclaimer: This tool is intended for educational and ethical purposes only. The author is not responsible for any misuse of this tool.*
 
 ## *The last thing and everything still need work, but it's a good start.*
+~*i updat it to v1 beta but i dont feel to uplod it 🌞*~
